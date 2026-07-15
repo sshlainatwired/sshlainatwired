@@ -130,8 +130,8 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sshlainatwired&theme=dark&hide_border=true">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sshlainatwired&theme=dark&hide_border=true">
+  <img height="200" src="profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img height="200" src="profile-summary-card-output/github_dark/2-most-commit-language.svg">
 </p>
 
 ---

@@ -1,6 +1,6 @@
 ```
                                                                                                     
-                                        %@@%%%%%%%%%@%@@%                                           
+                                        %@@%%%%%%%%%@%@@%
                                     @@%%%%%%%%%%%%%%%%%%%%%%@@                                      
                                  %@%%%%%%%%%%%%%%@%%%%%%%@%%%%%%@                                   
                                %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@                                
@@ -130,7 +130,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="200" src="profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img height="200" src="profile-summary-card-output/github_dark/4-productive-time.svg">
   <img height="200" src="profile-summary-card-output/github_dark/2-most-commit-language.svg">
 </p>
 

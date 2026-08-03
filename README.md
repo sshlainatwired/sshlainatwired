@@ -88,6 +88,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 
 **Backend & runtime**
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
@@ -130,8 +131,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="200" src="profile-summary-card-output/github_dark/4-productive-time.svg">
-  <img height="200" src="profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <img src="https://raw.githubusercontent.com/sshlainatwired/sshlainatwired/master/profile-summary-card-output/github_dark/0-profile-details.svg">
 </p>
 
 ---
